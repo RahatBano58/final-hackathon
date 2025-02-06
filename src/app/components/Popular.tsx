@@ -18,12 +18,12 @@ const PopularProducts: React.FC = () => {
   const products: Product[] = [
     {
       _id: "1",
-      name: "Sleek Wireless Earbuds with Charging Case",
+      name: "AirPods",
       price: 1099.99,
       discountPercentage: 15,
-      imageUrl: "/airpod.jpg",
-      slug: { current: "sleek-wireless-earbuds-with-charging-case" },
-      description: "These compact wireless earbuds offer a seamless audio experience with their sleek design and portable charging case, perfect for on-the-go listening. Enjoy superior sound quality and long battery life in a modern, minimalist package.",
+      imageUrl: "/airpod.webp",
+      slug: { current: "premium-wireless-airpods" },
+      description: "Sleek and modern wireless AirPods with a minimalistic design and premium build quality.",
     },
     {
       _id: "2",
